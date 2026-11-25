@@ -1,0 +1,7 @@
+# The repacked package goes to GitHub Releases
+*.deb
+# Work folders the script creates
+dl/
+x64/
+arm64/
+out/
